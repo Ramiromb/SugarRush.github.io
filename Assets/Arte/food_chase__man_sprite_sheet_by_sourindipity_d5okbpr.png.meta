@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: d5e1ae38594dc2c4ca916490e29a10c6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_0
+    21300002: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_1
+    21300004: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_2
+    21300006: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_3
+    21300008: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_4
+    21300010: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_5
+    21300012: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_6
+    21300014: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_7
+    21300016: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_8
+    21300018: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_9
+    21300020: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_10
+    21300022: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_11
+    21300024: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_12
+    21300026: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_13
+    21300028: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_14
+    21300030: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_15
+    21300032: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_16
+    21300034: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_17
+    21300036: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_18
+    21300038: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_19
+    21300040: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_20
+    21300042: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_21
+    21300044: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_22
+    21300046: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_23
+    21300048: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_24
+    21300050: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_25
+    21300052: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_26
+    21300054: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_27
+    21300056: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_28
+    21300058: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_29
+    21300060: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_30
+    21300062: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_31
+    21300064: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_32
+    21300066: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_33
+    21300068: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_34
+    21300070: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_35
+    21300072: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_36
+    21300074: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_37
+    21300076: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_38
+    21300078: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_39
+    21300080: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_40
+    21300082: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_41
+    21300084: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_42
+    21300086: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_43
+    21300088: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_44
+    21300090: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_45
+    21300092: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_46
+    21300094: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_47
+    21300096: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_48
+    21300098: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_49
+    21300100: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_50
+    21300102: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_51
+    21300104: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_52
+    21300106: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_53
+    21300108: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_54
+    21300110: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_55
+    21300112: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_56
+    21300114: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_57
+    21300116: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_58
+    21300118: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_59
+    21300120: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_60
+    21300122: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_61
+    21300124: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_62
+    21300126: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_63
+    21300128: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_64
+    21300130: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_65
+    21300132: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_66
+    21300134: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_67
+    21300136: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_68
+    21300138: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_69
+    21300140: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_70
+    21300142: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_71
+    21300144: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_72
+    21300146: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_73
+    21300148: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_74
+    21300150: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_75
+    21300152: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_76
+    21300154: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_77
+    21300156: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_78
+    21300158: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_79
+    21300160: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_80
+    21300162: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_81
+    21300164: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_82
+    21300166: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_83
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 597
+        width: 17
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97999f8c83e3f6b4481d909bcdec096a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 597
+        width: 17
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5364893903caa64fb1534501689c28b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 597
+        width: 15
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8ebdb79aa21774db54e6cecf3dba5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 533
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f508d5a3dcb27e04785cc6b412b87542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 533
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006e1ce27047dd9489515451d54043c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 533
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1228278364b90e4391bd0ccb58ea4ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 533
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b2b232b6e9a2a4e96cacd9b5d619eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 533
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a26e476fc2df942b84c656d36d801f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 533
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a2f578e9a07b64fa4862ba655551e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 533
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b219609a7046c46a8979095803e1ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 533
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66062887bcffa3499ff4d0e57ba91aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 533
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402396c3aa2a142469f72de699085243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_12
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 533
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a0132b894584943a0459625036fa0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_13
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 533
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06835b8c6faf23b49992d778a4d4dfda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_14
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 533
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d3a312e88373a45898219e20b9545c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_15
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 534
+        width: 15
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a3d23c59254bd49bfa696628ecc0f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_16
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 535
+        width: 16
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392c8a686261ddb4a92aebed36c2c03f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_17
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 535
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee4f7c00f029d14498867308f728dbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_18
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 533
+        width: 15
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac6159137edcc041acf122f47cdc403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_19
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 533
+        width: 17
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306eaff472309334b94bb96d33fd19a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_20
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 533
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5d9abf1caade040a9998c7bfd9e094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 469
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7f47b27bf93f34297660834046a7c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 469
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac4f6e53313c994aa7112f0755e5bd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 469
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f597b25f94c1042b3d122dc7a86ba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 405
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3291a970fd2cf64aa3bb2c4b762cf15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 405
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fba716f14e4cb04abd066ab5c97d5c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 405
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375ff2697fa03ce4997b1c1c8feba936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 405
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6e34804062d334dacf723e73a8cb1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 405
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e8f041dd2e8a242b3a3015b1af7258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 405
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dd6926dff912f438d4ccb103e30969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 405
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69359e8e1278b3b41843b8783868fec9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_31
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 405
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10efe368efbec9a4d86a03e379ec7f7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_32
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 405
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e9335707f4bec4a912a78878f595c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_33
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 405
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff9c6ce83979c84e9030ebd420cc93c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_34
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 405
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e440ae09e8b8b144bb7912d8ba67bf6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_35
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 405
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0115bf1d78b3a08469d932054cfbb9dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_36
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 406
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d2bd2f0aa46e144a51fd0a9b7c5af2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_37
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 406
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44523985116dcc149a17cb3e7c97b570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_38
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 407
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e7487636b5b684886bb086c1d6057b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_39
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 405
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0c6d925f330304f9f38cdfc6b96550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_40
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 405
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090d04f0101d2a149bae79a0d573de56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_41
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 405
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135ff7569d393b94eb7e4a69b15636c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 341
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96928e63066c9804eae9ee6f6e12a101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 341
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c84b405f970ada42a78ac1556a58723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_44
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 341
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681400ac27577754daffc0941db7218d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 277
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e87aebb77aa40498e5af7f11ae47b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 277
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7f8c66e407bf34495e180602204a40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_47
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 277
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c07fc190b636e543952301769f5bd1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 277
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af029dbeef0b8f54bac0bcfefb1ca69e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_49
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 277
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b308a8a94ee1a4580dce6489f9b6c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_50
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 277
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be39264a1770b7d428589ed27d3b272e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_51
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 277
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef675248178b70246a246f41360a30a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_52
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 277
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23997edab1e907a489d14b8599a3748d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_53
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 277
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a344fee5b904d04481b7be88822ea11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_54
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 277
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed4993391aae4e43952b7732b835a63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_55
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 277
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7355635768b42c4b8eb21df3e36f122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_56
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 277
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6cd82ae6bbae346824d7c59d3d2045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_57
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 278
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59e89148fc1e2c499f00f7f8ac920c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_58
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 277
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c5ba1c12544b34db68d81bdeb686f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_59
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 279
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a3e4501585ab478c1bba539d4ddb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_60
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 277
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d010f18c179d02e4fbdb05c5e484d941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_61
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 277
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77459bd29c7687c408a605665011390d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_62
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 277
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ffbbeeb6d9fa949a9b358e60dbc200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_63
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 185
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47ba3cca981a4f45a06feb1e6885be6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_64
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 185
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f811a62f6b1a724499ece3661a389964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_65
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 185
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01bb387bafec9d47b747de6a045684e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 93
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2ee87c9782c8e4d9980dbfa09feb03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_67
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 93
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdd9e9848ea7ab4b8e269cd652d304c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_68
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 93
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3c5e3caea5c1348b33a26f11677dcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_69
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 93
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813cc4a1de351d44ea5a6d547ae8f1bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_70
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 93
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d209835deca54c46b10cfe67d6468a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_71
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 93
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3579e2089885da44282e6a62dd9cd1e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_72
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 93
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81fc373d65cd864d9682fcded7efb3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_73
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 93
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9ccc54e47ec2348b97d66a87667c7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_74
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 93
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca3999f91f4b854c90d5bdd842d8554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_75
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 93
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933b793d8ce68e348bcdfb47c1c43a8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_76
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 93
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7ba622d178bca46bd46b42cd4bd0e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_77
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 93
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b694889e83d1dd74ab06450ff77c991b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_78
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b0da1000ec54c4c858a77611323fe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_79
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 3
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ca9dc2f3c37534ab2a1a8623aca72c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_80
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdcbc1adee00d348ae90a811e4b5e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_81
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d29c4d3980ea1140b1ff83ed5ea8fe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_82
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d141af3326800643b2ab586bf5406c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: food_chase__man_sprite_sheet_by_sourindipity_d5okbpr_83
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e756a851c0b17754ea174bd89d501204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3bacd96217c156749943f1b1afdb2d4f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
